@@ -1,0 +1,252 @@
+GQ	Equatorial Guinea	Malabo	 NULL
+TH	Thailand	Bangkok	Thai
+AD	Andorra	Andorra la Vella	Andorran
+FM	Micronesia	Palikir	 NULL
+KR	South Korea	Seoul	South Korean
+SE	Sweden	Stockholm	Swedish
+EG	Egypt	Cairo	Egyptian
+FO	Faroe Islands	Torshavn	 NULL
+LT	Lithuania	Vilnius	Lithuanian
+LR	Liberia	Monrovia	Liberian
+CO	Colombia	Bogota	Colombian
+VN	Vietnam	Hanoi	Vietnamese
+TV	Tuvalu	Funafuti	Tuvaluan
+IS	Iceland	Reykjavik	Icelandic
+AM	Armenia	Yerevan	Armenian
+SK	Slovakia	Bratislava	Slovak
+VG	British Virgin Islands	Road Town	 NULL
+GP	Guadeloupe	Basse-Terre	 NULL
+UG	Uganda	Kampala	Ugandan
+TZ	Tanzania	Dodoma	 NULL
+WS	Samoa	Apia	 NULL
+AO	Angola	Luanda	Angolan
+CX	Christmas Island	Flying Fish Cove	 NULL
+SZ	Swaziland	Mbabane	Swazi
+HU	Hungary	Budapest	Hungarian
+GF	French Guiana	Cayenne	 NULL
+LB	Lebanon	Beirut	Lebanese
+AR	Argentina	Buenos Aires	Argentinian
+MX	Mexico	Mexico City	Mexican
+GI	Gibraltar	Gibraltar	 NULL
+NI	Nicaragua	Managua	Nicaraguan
+DJ	Djibouti	Djibouti	Djiboutian
+MP	Northern Mariana Islands	Saipan	 NULL
+GU	Guam	Hagatna	 NULL
+RS	Serbia	Belgrade	Serbian
+AQ	Antarctica		 NULL
+SS	South Sudan	Juba	 NULL
+DM	Dominica	Roseau	Dominican
+ZA	South Africa	Pretoria	South African
+TC	Turks and Caicos Islands	Cockburn Town	 NULL
+BA	Bosnia and Herzegovina	Sarajevo	Bosnian
+PK	Pakistan	Islamabad	Pakistani
+LC	Saint Lucia	Castries	 NULL
+GS	South Georgia and the South Sandwich Islands	Grytviken	 NULL
+AX	Aland Islands	Mariehamn	 NULL
+MS	Montserrat	Plymouth	 NULL
+VC	Saint Vincent and the Grenadines	Kingstown	 NULL
+MH	Marshall Islands	Majuro	 NULL
+CM	Cameroon	Yaounde	Cameroonian
+CU	Cuba	Havana	Cuban
+RU	Russia	Moscow	 NULL
+DZ	Algeria	Algiers	Algerian
+SL	Sierra Leone	Freetown	Sierra Leonian
+IL	Israel	Jerusalem	Israeli
+JO	Jordan	Amman	Jordanian
+KG	Kyrgyzstan	Bishkek	 NULL
+LS	Lesotho	Maseru	 NULL
+KW	Kuwait	Kuwait City	Kuwaiti
+BH	Bahrain	Manama	Bahraini
+DE	Germany	Berlin	German
+LU	Luxembourg	Luxembourg	-
+EH	Western Sahara	El-Aaiun	 NULL
+MU	Mauritius	Port Louis	Mauritian
+UA	Ukraine	Kiev	Ukrainian
+LY	Libya	Tripoli	Libyan
+SC	Seychelles	Victoria	 NULL
+AW	Aruba	Oranjestad	 NULL
+KZ	Kazakhstan	Astana	Kazakh
+SB	Solomon Islands	Honiara	-
+SO	Somalia	Mogadishu	Somali
+BG	Bulgaria	Sofia	Bulgarian
+SG	Singapore	Singapore	Singaporean
+SY	Syria	Damascus	 NULL
+PG	Papua New Guinea	Port Moresby	Papua New Guinean
+ID	Indonesia	Jakarta	Indonesian
+BJ	Benin	Porto-Novo	Beninese
+RO	Romania	Bucharest	Romanian
+AT	Austria	Vienna	Austrian
+GM	Gambia	Banjul	Gambian
+CH	Switzerland	Bern	Swiss
+MC	Monaco	Monaco	Monacan
+YT	Mayotte	Mamoudzou	 NULL
+GA	Gabon	Libreville	Gabonese
+TL	East Timor	Dili	 NULL
+CC	Cocos Islands	West Island	 NULL
+CK	Cook Islands	Avarua	 NULL
+OM	Oman	Muscat	Omani
+KM	Comoros	Moroni	 NULL
+MQ	Martinique	Fort-de-France	 NULL
+CW	Curacao	 Willemstad	 NULL
+EE	Estonia	Tallinn	Estonian
+SR	Suriname	Paramaribo	Surinamese
+PY	Paraguay	Asuncion	Paraguayan
+BR	Brazil	Brasilia	Brazilian
+CN	China	Beijing	Chinese
+MA	Morocco	Rabat	Moroccan
+FR	France	Paris	French
+LA	Laos	Vientiane	 NULL
+GR	Greece	Athens	Greek
+NE	Niger	Niamey	Nigerien
+AE	United Arab Emirates	Abu Dhabi	 NULL
+YE	Yemen	Sanaa	Yemeni
+SH	Saint Helena	Jamestown	 NULL
+TR	Turkey	Ankara	Turkish
+TN	Tunisia	Tunis	Tunisian
+MV	Maldives	Male	Maldivian
+FI	Finland	Helsinki	Finnish
+JP	Japan	Tokyo	Japanese
+GE	Georgia	Tbilisi	Georgian
+CR	Costa Rica	San Jose	Costa Rican
+KN	Saint Kitts and Nevis	Basseterre	 NULL
+SX	Sint Maarten	Philipsburg	 NULL
+NG	Nigeria	Abuja	Nigerian
+MY	Malaysia	Kuala Lumpur	Malaysian
+HM	Heard Island and McDonald Islands		 NULL
+CA	Canada	Ottawa	Canadian
+GW	Guinea-Bissau	Bissau	 NULL
+TF	French Southern Territories	Port-aux-Francais	 NULL
+BF	Burkina Faso	Ouagadougou	Burkinese
+PR	Puerto Rico	San Juan	 NULL
+ZM	Zambia	Lusaka	Zambian
+HK	Hong Kong	Hong Kong	 NULL
+FK	Falkland Islands	Stanley	 NULL
+PA	Panama	Panama City	Panamanian
+MZ	Mozambique	Maputo	Mozambican
+JM	Jamaica	Kingston	Jamaican
+GB	United Kingdom	London	 British
+BN	Brunei	Bandar Seri Begawan	 NULL
+AF	Afghanistan	Kabul	Afghan
+MN	Mongolia	Ulan Bator	Mongolian
+BQ	Bonaire, Saint Eustatius and Saba 		 NULL
+SA	Saudi Arabia	Riyadh	Saudi
+RE	Reunion	Saint-Denis	 NULL
+MF	Saint Martin	Marigot	 NULL
+HT	Haiti	Port-au-Prince	Haitian
+BO	Bolivia	Sucre	Bolivian
+ET	Ethiopia	Addis Ababa	Ethiopian
+GY	Guyana	Georgetown	Guyanese
+NZ	New Zealand	Wellington	New Zealand used attributively only
+NP	Nepal	Kathmandu	Nepalese
+GG	Guernsey	St Peter Port	 NULL
+CI	Ivory Coast	Yamoussoukro	 NULL
+TM	Turkmenistan	Ashgabat	Turkmen
+BB	Barbados	Bridgetown	Barbadian
+ER	Eritrea	Asmara	Eritrean
+CZ	Czech Republic	Prague	Czech
+TO	Tonga	Nuku'alofa	 NULL
+ST	Sao Tome and Principe	Sao Tome	 NULL
+PM	Saint Pierre and Miquelon	Saint-Pierre	 NULL
+BE	Belgium	Brussels	Belgian
+AS	American Samoa	Pago Pago	Samoan
+TW	Taiwan	Taipei	Taiwanese
+SI	Slovenia	Ljubljana	Slovenian
+BS	Bahamas	Nassau	Bahamian
+AI	Anguilla	The Valley	 NULL
+AG	Antigua and Barbuda	St. John's	 NULL
+NC	New Caledonia	Noumea	 NULL
+PN	Pitcairn	Adamstown	 NULL
+IQ	Iraq	Baghdad	Iraqi
+BW	Botswana	Gaborone	Botswanan
+GH	Ghana	Accra	Ghanaian
+CL	Chile	Santiago	Chilean
+KE	Kenya	Nairobi	Kenyan
+PW	Palau	Melekeok	 NULL
+VE	Venezuela	Caracas	Venezuelan
+IM	Isle of Man	Douglas	 NULL
+TK	Tokelau		 NULL
+MW	Malawi	Lilongwe	Malawian
+PS	Palestinian Territory	East Jerusalem	 NULL
+ME	Montenegro	Podgorica	Montenegrin
+UZ	Uzbekistan	Tashkent	Uzbek
+SV	El Salvador	San Salvador	Salvadorean
+IR	Iran	Tehran	Iranian
+SN	Senegal	Dakar	Senegalese
+MR	Mauritania	Nouakchott	Mauritanian
+SM	San Marino	San Marino	 NULL
+XK	Kosovo	Pristina	Kosovan
+DK	Denmark	Copenhagen	Danish
+VA	Vatican	Vatican City	 NULL
+LK	Sri Lanka	Colombo	Sri Lankan
+UM	United States Minor Outlying Islands		 NULL
+ES	Spain	Madrid	Spanish
+VU	Vanuatu	Port Vila	Vanuatuan
+IN	India	New Delhi	Indian
+IO	British Indian Ocean Territory	Diego Garcia	 NULL
+TT	Trinidad and Tobago	Port of Spain	Trinidadian
+MT	Malta	Valletta	Maltese
+QA	Qatar	Doha	Qatari
+PF	French Polynesia	Papeete	French Polynesian
+KH	Cambodia	Phnom Penh	Cambodian
+PH	Philippines	Manila	Philippine
+IT	Italy	Rome	Italian
+FJ	Fiji	Suva	Fijian
+MK	Macedonia	Skopje	 NULL
+BL	Saint Barthelemy	Gustavia	 NULL
+SJ	Svalbard and Jan Mayen	Longyearbyen	 NULL
+CS	Serbia and Montenegro	Belgrade	Serbian
+NU	Niue	Alofi	 NULL
+BM	Bermuda	Hamilton	Bermudian
+AZ	Azerbaijan	Baku	Azerbaijani
+RW	Rwanda	Kigali	Rwandan
+TD	Chad	N'Djamena	Chadian
+DO	Dominican Republic	Santo Domingo	Dominican
+AU	Australia	Canberra	Australian
+VI	U.S. Virgin Islands	Charlotte Amalie	 NULL
+BY	Belarus	Minsk	Belarusian
+US	United States	Washington	 American
+BZ	Belize	Belmopan	Belizean
+NA	Namibia	Windhoek	Namibian
+GD	Grenada	St. George's	Grenadian
+PL	Poland	Warsaw	Polish
+CD	Democratic Republic of the Congo	Kinshasa	 NULL
+NO	Norway	Oslo	Norwegian
+JE	Jersey	Saint Helier	 NULL
+GN	Guinea	Conakry	Guinean
+GT	Guatemala	Guatemala City	Guatemalan
+MG	Madagascar	Antananarivo	Madagascan
+KP	North Korea	Pyongyang	North Korean
+KI	Kiribati	Tarawa	 NULL
+AN	Netherlands Antilles	Willemstad	Dutch
+SD	Sudan	Khartoum	Sudanese
+HR	Croatia	Zagreb	Croat or Croatian
+GL	Greenland	Nuuk	 NULL
+CY	Cyprus	Nicosia	Cypriot
+AL	Albania	Tirana	Albanian
+NR	Nauru	Yaren	 NULL
+NF	Norfolk Island	Kingston	 NULL
+IE	Ireland	Dublin	Ireland
+ZW	Zimbabwe	Harare	Zambian
+KY	Cayman Islands	George Town	 NULL
+MD	Moldova	Chisinau	 NULL
+NL	Netherlands	Amsterdam	Dutch
+PT	Portugal	Lisbon	Portuguese
+WF	Wallis and Futuna	Mata Utu	 NULL
+MO	Macao	Macao	 NULL
+CF	Central African Republic	Bangui	 NULL
+EC	Ecuador	Quito	Ecuadorean
+ML	Mali	Bamako	Malian
+TG	Togo	Lome	Togolese
+BV	Bouvet Island		 NULL
+BT	Bhutan	Thimphu	Bhutanese
+CG	Republic of the Congo	Brazzaville	Congolese
+BD	Bangladesh	Dhaka	Bangladeshi
+CV	Cape Verde	Praia	Cape Verdean
+MM	Myanmar	Nay Pyi Taw	 NULL
+TJ	Tajikistan	Dushanbe	Tajik
+LV	Latvia	Riga	Latvian
+UY	Uruguay	Montevideo	Uruguayan
+PE	Peru	Lima	Peruvian
+LI	Liechtenstein	Vaduz	-
+HN	Honduras	Tegucigalpa	Honduran
+BI	Burundi	Bujumbura	Burundian
